@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # openclaw-marketing
 
 > AI Marketing Agency CLI for OpenClaw
@@ -84,3 +85,6 @@ MIT
 ---
 
 Built for the Paris OpenClaw Hackathon 2026 🎯
+=======
+# openclaw-workspace
+>>>>>>> origin/main
