@@ -1,0 +1,28 @@
+{
+  "name": "openclaw-marketing",
+  "version": "0.1.0",
+  "description": "AI Marketing Agency CLI for OpenClaw",
+  "main": "src/index.js",
+  "bin": {
+    "openclaw-marketing": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Tests pending\" && exit 0"
+  },
+  "keywords": [
+    "marketing",
+    "ai",
+    "cli",
+    "openclaw",
+    "automation"
+  ],
+  "author": "OpenClaw Hackathon Team",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
